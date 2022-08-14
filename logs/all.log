@@ -1,0 +1,151 @@
+2022-08-07 16:07:17 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:07:52 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-07 16:07:52 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:08:01 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-07 16:08:01 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:08:16 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-07 16:08:16 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:08:31 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
+2022-08-07 16:08:31 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2022-08-07 16:08:31 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:08:44 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-07 16:08:44 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-07 16:09:03 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-07 16:09:03 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 09:44:27 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
+2022-08-13 09:46:53 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
+2022-08-13 09:48:16 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 09:48:16 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 09:48:44 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 09:48:44 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:01:34 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:01:34 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:01:51 - [35mhttp[39m: [35mGET /api/test 200 22 - 2.792 ms[39m
+[35m[39m
+2022-08-13 10:03:05 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:03:05 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:03:07 - [35mhttp[39m: [35mGET /api/test 200 22 - 2.693 ms[39m
+[35m[39m
+2022-08-13 10:03:14 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:03:14 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:03:35 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:03:35 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:03:36 - [31mhttp[39m: [31mGET /api/test 200 22 - 2.539 ms[39m
+[31m[39m
+2022-08-13 10:05:22 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:05:22 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:05:25 - [35mhttp[39m: [35mGET /api/test 200 22 - 3.016 ms[39m
+[35m[39m
+2022-08-13 10:05:31 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:05:31 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:07:21 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:07:21 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 10:07:23 - [36mhttp[39m: [36mGET /api/test 200 22 - 3.959 ms[39m
+[36m[39m
+2022-08-13 10:07:38 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 10:07:38 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 11:31:11 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 11:31:11 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 11:31:14 - [36mhttp[39m: [36mPOST /api/user/create 404 155 - 2.721 ms[39m
+[36m[39m
+2022-08-13 11:32:24 - [36mhttp[39m: [36mPOST /api/user/create 404 155 - 0.930 ms[39m
+[36m[39m
+2022-08-13 11:34:06 - [36mhttp[39m: [36mGET / 304 - - 2.675 ms[39m
+[36m[39m
+2022-08-13 11:34:11 - [36mhttp[39m: [36mGET / 304 - - 0.584 ms[39m
+[36m[39m
+2022-08-13 11:34:14 - [36mhttp[39m: [36mGET / 304 - - 0.298 ms[39m
+[36m[39m
+2022-08-13 11:35:04 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 11:35:04 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 11:35:05 - [36mhttp[39m: [36mPOST /api/user/create 200 22 - 2.639 ms[39m
+[36m[39m
+2022-08-13 11:41:00 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 11:41:00 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 11:42:54 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 11:42:54 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 11:43:29 - [36mhttp[39m: [36mPOST /api/user/create 200 159 - 33.489 ms[39m
+[36m[39m
+2022-08-13 12:37:40 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 12:37:40 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 12:37:48 - [36mhttp[39m: [36mPOST /api/user/create 200 160 - 34.317 ms[39m
+[36m[39m
+2022-08-13 16:29:18 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 16:29:18 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 16:29:20 - [36mhttp[39m: [36mPOST /api/user/create 200 160 - 35.239 ms[39m
+[36m[39m
+2022-08-13 16:29:46 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 16:29:46 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 16:31:46 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 16:31:46 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 16:32:05 - [36mhttp[39m: [36mPOST /api/user/create 422 196 - 8.519 ms[39m
+[36m[39m
+2022-08-13 17:26:33 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:26:33 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:26:46 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:26:46 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:26:49 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:26:49 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:27:05 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:27:05 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:27:52 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:27:52 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:30:56 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:30:56 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:32:50 - [36mhttp[39m: [36mGET /api/user/find/62f7fb90f857d15a2084471e 200 160 - 26.421 ms[39m
+[36m[39m
+2022-08-13 17:32:57 - [36mhttp[39m: [36mGET /api/user/find/62f7fb90f857d15a2084471e 200 160 - 12.272 ms[39m
+[36m[39m
+2022-08-13 17:34:18 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:34:18 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:34:21 - [36mhttp[39m: [36mGET /api/user/find/62f7fb90f857d15a2084471e STATUS200 - 26.020 ms[39m
+[36m[39m
+2022-08-13 17:34:34 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 17:34:34 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 17:34:36 - [36mhttp[39m: [36mGET /api/user/find/62f7fb90f857d15a2084471e STATUS[200] - 23.551 ms[39m
+[36m[39m
+2022-08-13 18:33:41 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-13 18:33:41 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-13 18:43:20 - [36mhttp[39m: [36mGET /api/user/find STATUS[404] - 2.729 ms[39m
+[36m[39m
+2022-08-13 18:43:47 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
+2022-08-13 18:46:00 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
+2022-08-14 09:01:29 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:01:29 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:01:36 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 28.272 ms[39m
+[36m[39m
+2022-08-14 09:37:18 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:37:18 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:38:06 - [36mhttp[39m: [36mGET /api/user/find/62f7b8911bc17a334130d049 STATUS[200] - 30.260 ms[39m
+[36m[39m
+2022-08-14 09:38:20 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62f7b8911bc17a334130d0499" (type string) at path "_id" for model "User"[39m
+2022-08-14 09:38:20 - [36mhttp[39m: [36mDELETE /api/user/find/62f7b8911bc17a334130d0499 STATUS[500] - 4.246 ms[39m
+[36m[39m
+2022-08-14 09:38:24 - [36mhttp[39m: [36mDELETE /api/user/find/62f7b8911bc17a334130d049 STATUS[200] - 10.415 ms[39m
+[36m[39m
+2022-08-14 09:38:36 - [36mhttp[39m: [36mGET /api/user/find/62f7b8911bc17a334130d049 STATUS[200] - 12.468 ms[39m
+[36m[39m
+2022-08-14 09:40:43 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:40:43 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:40:47 - [36mhttp[39m: [36mGET /api/user/find/62f7b8911bc17a334130d049 STATUS[200] - 27.457 ms[39m
+[36m[39m
+2022-08-14 09:40:49 - [36mhttp[39m: [36mDELETE /api/user/find/62f7b8911bc17a334130d049 STATUS[200] - 15.053 ms[39m
+[36m[39m
+2022-08-14 09:40:57 - [36mhttp[39m: [36mGET /api/user/find/62f7b8911bc17a334130d049 STATUS[404] - 14.151 ms[39m
+[36m[39m
+2022-08-14 09:41:50 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:41:50 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:41:53 - [36mhttp[39m: [36mDELETE /api/user/find/62f7b8911bc17a334130d049 STATUS[404] - 3.971 ms[39m
+[36m[39m
+2022-08-14 09:42:08 - [36mhttp[39m: [36mDELETE /api/user/delete/62f7b8911bc17a334130d049 STATUS[404] - 22.008 ms[39m
+[36m[39m
+2022-08-14 09:42:25 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:42:25 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:42:50 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 09:42:50 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 09:42:54 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 24.761 ms[39m
+[36m[39m
+2022-08-14 09:43:05 - [36mhttp[39m: [36mGET /api/user/find/62f7c54c8da47b5092096ecf STATUS[200] - 17.659 ms[39m
+[36m[39m
+2022-08-14 09:43:09 - [36mhttp[39m: [36mPOST /api/user/create STATUS[422] - 6.489 ms[39m
+[36m[39m
