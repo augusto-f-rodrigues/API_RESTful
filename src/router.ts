@@ -14,4 +14,5 @@ export default router
   .post("/user/create", userCreateValidation(), validade, createUser)
   .get("/user/find/:id", getUserById)
   .get("/user/find", getAllUsers)
-  .delete("/user/delete/:id", deleteUser);
+  .delete("/user/delete/:id", deleteUser)
+  .patch("/user/update/:id", userCreateValidation(), validade );

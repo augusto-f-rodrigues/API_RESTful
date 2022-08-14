@@ -169,3 +169,41 @@
 [36m[39m
 2022-08-14 10:08:53 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 10.938 ms[39m
 [36m[39m
+2022-08-14 10:10:27 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 9.505 ms[39m
+[36m[39m
+2022-08-14 10:11:22 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 13.468 ms[39m
+[36m[39m
+2022-08-14 10:12:09 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 9.356 ms[39m
+[36m[39m
+2022-08-14 10:12:26 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 10.719 ms[39m
+[36m[39m
+2022-08-14 10:12:35 - [36mhttp[39m: [36mGET /api/user/find/62f8eeb876ca56d14665562a STATUS[200] - 9.734 ms[39m
+[36m[39m
+2022-08-14 10:12:41 - [36mhttp[39m: [36mDELETE /api/user/delete/62f8eeb876ca56d14665562a STATUS[200] - 10.092 ms[39m
+[36m[39m
+2022-08-14 10:12:45 - [36mhttp[39m: [36mPOST /api/user/create STATUS[200] - 16.560 ms[39m
+[36m[39m
+2022-08-14 10:14:56 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 10.386 ms[39m
+[36m[39m
+2022-08-14 10:17:15 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 10.279 ms[39m
+[36m[39m
+2022-08-14 10:17:26 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 8.883 ms[39m
+[36m[39m
+2022-08-14 10:17:40 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 8.135 ms[39m
+[36m[39m
+2022-08-14 10:18:02 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 8.357 ms[39m
+[36m[39m
+2022-08-14 10:18:11 - [36mhttp[39m: [36mDELETE /api/user/delete/62f8ee9076ca56d146655628 STATUS[200] - 11.294 ms[39m
+[36m[39m
+2022-08-14 10:18:14 - [36mhttp[39m: [36mGET /api/user/find STATUS[200] - 11.520 ms[39m
+[36m[39m
+2022-08-14 10:18:17 - [36mhttp[39m: [36mPOST /api/user/create STATUS[200] - 21.540 ms[39m
+[36m[39m
+2022-08-14 10:18:24 - [36mhttp[39m: [36mGET /api/user/find/62f8f61976ca56d146655641 STATUS[200] - 13.926 ms[39m
+[36m[39m
+2022-08-14 10:42:12 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 10:42:12 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 10:42:38 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 10:42:38 - [32minfo[39m: [32mServer listen on port 3000[39m
+2022-08-14 10:43:08 - [32minfo[39m: [32mBanco de dados conectado![39m
+2022-08-14 10:43:08 - [32minfo[39m: [32mServer listen on port 3000[39m
